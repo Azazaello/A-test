@@ -1,7 +1,7 @@
-testing line updated 
 untesting line
 привет
 commit test 
 0000000
 65432
 new branch line
+new line for GUI
